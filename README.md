@@ -38,7 +38,7 @@ A simple and elegant personal task management application built with React. This
 - **React Hooks** - State management (useState, useEffect)
 
 ## 🔗 Live Demo
-[Add your deployed application URL here]
+https://task-zen-eta.vercel.app/
 
 ## 🖼 Screenshots
 
